@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+*.iml
+.gradle
+/local.properties
+modules.xml
+workspace.xml
+navEditor.xml
+assetWizardSettings.xml
